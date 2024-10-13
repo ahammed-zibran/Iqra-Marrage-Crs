@@ -332,7 +332,7 @@ font-size: 2.2rem;
     
 footer{
     overflow-x: hidden;
-    height:100vh;
+    height:auto;
 
     
     >hr{
@@ -397,6 +397,7 @@ footer{
     
     .ft-cntn-2{
 
+        margin: 2rem 0;
             h2{
                 font-size: 1.2rem;
                 margin: 3rem auto;                
@@ -416,6 +417,8 @@ footer{
 
         .ft-cntn-3{
             width: auto;
+            margin-bottom: 2rem;
+            margin-top: 2rem;
 
             h2{
                 margin: 1rem ;
@@ -432,7 +435,6 @@ footer{
             }
             
             p{
-                border: 2px solid red;
                 letter-spacing: 1px;
                 font-size: 15px;
             }
