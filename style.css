@@ -101,10 +101,12 @@ footer{
     }
 
     >.copy{
+        /* border: 2px solid red; */
         width: 50%;
         margin: 0 auto;
         justify-content: space-around;
         display: flex;
+        padding-bottom: 1rem;
         
         
         p{
@@ -257,7 +259,7 @@ a{
 
 
 footer{
-    
+
     /* height:35vh; */
 
     >.copy{
