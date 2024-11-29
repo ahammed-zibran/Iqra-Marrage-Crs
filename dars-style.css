@@ -71,7 +71,12 @@ article{
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
     margin-top: 1rem;
-}
+    }
+.text
+span{
+    color: white;
+    background-color: red;
+} 
 
 .button{
 
@@ -103,6 +108,7 @@ article{
         border-radius: 6px;
         
         a{
+            
             text-wrap: nowrap;
             text-decoration: none;
             color: #fff;
